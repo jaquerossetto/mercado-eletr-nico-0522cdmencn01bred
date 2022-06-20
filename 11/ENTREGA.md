@@ -18,12 +18,12 @@
 
 #### Colaboradores
 
-#### Link do repositório
-
 - Danilo Sanada
 - Marcelo Alves
 - Nathalia França
 - Renata Kim
+
+#### [Link do repositório](https://github.com/marceloodev/Aula11)
 
 #### Descrição/Observação (Opcional)
 
@@ -56,7 +56,7 @@
 - Ingrid Carol
 - Luan Victor
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/LuanME/Aula-11---Classes)
 
 #### Descrição/Observação (Opcional)
 
@@ -103,7 +103,7 @@
 - Amanda Barreto
 - Ariel Lopes
 - Jose Iranildo Junior
-
+https://github.com/ArielLopes888/Aula11
 #### Link do repositório
 
-#### Descrição/Observação (Opcional)
+#### Descrição/Observação (Opcional
