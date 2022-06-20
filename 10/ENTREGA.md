@@ -114,11 +114,11 @@ https://github.com/ArielLopes888/Aula10
 #### Descrição/Observação (Opcional)
 
 
-### Grupo 7
+### Grupo 8
 
 #### Colaboradora 
 - Jaqueline Rossetto Scagliante
 
-#### [Link do repositório](https://github.com/jaquerossetto/aula11-controlador-ac)
+#### [Link do repositório](https://github.com/jaquerossetto/aula10-classes-poo/blob/main/README.md)
 
 #### Descrição/Observação (Opcional)
