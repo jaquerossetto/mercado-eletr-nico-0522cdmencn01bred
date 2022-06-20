@@ -107,3 +107,14 @@ https://github.com/ArielLopes888/Aula11
 #### Link do repositório
 
 #### Descrição/Observação (Opcional
+
+
+### Grupo 7
+
+#### Colaboradores
+
+-Jaqueline Rossetto Scagliante
+
+#### [Link do repositório](https://github.com/jaquerossetto/aula11-controlador-acesso)
+
+#### Descrição/Observação (Opcional)
