@@ -1,4 +1,4 @@
-# Aula 12 - Entrega da atividade
+# Aula 13 - Entrega da atividade
 
 ## Formato da entrega
 
@@ -18,12 +18,12 @@
 
 #### Colaboradores
 
-- Cassio Freitas
-- Gabriele Oliveira Santana
-- Hugo Diniz
-- Iamim Vivanco
+- Ariel Lopes
+- Carolina Cagnoni
+- Luan Victor
+- Renata Kim
 
-#### Link do repositório()
+#### Link do repositório
 
 #### Descrição/Observação (Opcional)
 
@@ -33,13 +33,12 @@
 
 #### Colaboradores
 
-- Ariel Lopes
-- Danilo Sanada
-- Maíra Heloísa Silva Oliveira
-- Nathalia França
+- Fabiana Sayuri
+- Jose Iranildo Junior
+- Mayara Abreu
+- Salomão Kim
 
 #### Link do repositório
-https://github.com/ArielLopes888/Aula12
 
 #### Descrição/Observação (Opcional)
 
@@ -49,13 +48,16 @@ https://github.com/ArielLopes888/Aula12
 
 #### Colaboradores
 
-Carla Rani
-Laís Baltar
-Mayara Abreu
+- Cássio Freitas
+- Jaqueline Rosseto Scagliante
+- Laís Baltar
+- Maíra Heloísa Silva Oliveira
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/cassiofreitas/dhme_aulas_e_exercicios/tree/main/aula13_atividade_1)
 
 #### Descrição/Observação (Opcional)
+- cassiofreitas
+  - Equipe optou por discutir o assunto e implementar um código só, demonstrando os conceitos solicitados. 
 
 ----
 
@@ -64,8 +66,9 @@ Mayara Abreu
 #### Colaboradores
 
 - Alan Santana
-- Marcelo Alves
-- Renata Kim
+- Gabrielle Oliveira Santana
+- Matheus Texeira
+- Sabrina Helena Ferreira
 
 #### Link do repositório
 
@@ -77,11 +80,11 @@ Mayara Abreu
 
 #### Colaboradores
 
-- Anderlany (Lany)
-- José Iranildo Junior
-- Salomão Kim
+- Carla Rani
+- Marcelo Alves
+- Nathalia França
 
-#### [Link do repositório](https://github.com/sekimzero/Aula12-Matriz.git)
+#### Link do repositório
 
 #### Descrição/Observação (Opcional)
 
@@ -92,10 +95,10 @@ Mayara Abreu
 #### Colaboradores
 
 - Amanda Barreto
-- Beatriz Friso
-- Luan Victor
+- Anderlany (Lany)
+- Danilo Sanada
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/lanyarag/enumDictionary.git)
 
 #### Descrição/Observação (Opcional)
 
@@ -105,24 +108,11 @@ Mayara Abreu
 
 #### Colaboradores
 
-- Caroliny Cagnoni
-- Fabiana Sayuri
-- Jaqueline Rosseto Scagliate
-
-#### Link do repositório
-
-#### Descrição/Observação (Opcional)
-
-----
-
-### Grupo 8
-
-#### Colaboradores
-
+- Hugo Diniz
+- Iasmim Vivanco
 - Ingrid Carol
-- Matheus Texeira
-- Sabrina Helena Ferreira
 
 #### Link do repositório
 
 #### Descrição/Observação (Opcional)
+

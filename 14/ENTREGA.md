@@ -1,4 +1,4 @@
-# Aula 12 - Entrega da atividade
+# Aula 14 - Entrega da atividade
 
 ## Formato da entrega
 
@@ -18,12 +18,11 @@
 
 #### Colaboradores
 
-- Cassio Freitas
-- Gabriele Oliveira Santana
-- Hugo Diniz
-- Iamim Vivanco
+- Anderlany Lany
+- Beatriz Friso
+- Martilli
 
-#### Link do repositório()
+#### Link do repositório
 
 #### Descrição/Observação (Opcional)
 
@@ -34,12 +33,10 @@
 #### Colaboradores
 
 - Ariel Lopes
-- Danilo Sanada
-- Maíra Heloísa Silva Oliveira
-- Nathalia França
+- Fabiana Sayuri
+- Jaqueline Rosseto Scagliate
 
 #### Link do repositório
-https://github.com/ArielLopes888/Aula12
 
 #### Descrição/Observação (Opcional)
 
@@ -49,9 +46,9 @@ https://github.com/ArielLopes888/Aula12
 
 #### Colaboradores
 
-Carla Rani
-Laís Baltar
-Mayara Abreu
+- Cássio Freitas
+- Luan Victor
+- Matheus Texeira
 
 #### Link do repositório
 
@@ -63,9 +60,9 @@ Mayara Abreu
 
 #### Colaboradores
 
-- Alan Santana
-- Marcelo Alves
-- Renata Kim
+- Carla Rani
+- Caroliny Cagnoni
+- Hugo Diniz
 
 #### Link do repositório
 
@@ -77,11 +74,11 @@ Mayara Abreu
 
 #### Colaboradores
 
-- Anderlany (Lany)
-- José Iranildo Junior
-- Salomão Kim
+- Iasmim Vivanco
+- Maíra Heloísa Silva Oliveira
+- Sabrina Helena Ferreira
 
-#### [Link do repositório](https://github.com/sekimzero/Aula12-Matriz.git)
+#### Link do repositório
 
 #### Descrição/Observação (Opcional)
 
@@ -91,9 +88,9 @@ Mayara Abreu
 
 #### Colaboradores
 
-- Amanda Barreto
-- Beatriz Friso
-- Luan Victor
+- Gabrielle Oliveira Santana
+- Isabel Catão
+- Salomão Kim
 
 #### Link do repositório
 
@@ -105,13 +102,14 @@ Mayara Abreu
 
 #### Colaboradores
 
-- Caroliny Cagnoni
-- Fabiana Sayuri
-- Jaqueline Rosseto Scagliate
+- Amanda Barreto
+- Laís Baltar
+- Marcelo Alves
 
 #### Link do repositório
 
 #### Descrição/Observação (Opcional)
+
 
 ----
 
@@ -119,9 +117,9 @@ Mayara Abreu
 
 #### Colaboradores
 
-- Ingrid Carol
-- Matheus Texeira
-- Sabrina Helena Ferreira
+- Renata Kim
+- Nathalia França
+- Danilo Sanada
 
 #### Link do repositório
 
