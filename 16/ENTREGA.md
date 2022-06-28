@@ -27,8 +27,12 @@
 ### Grupo 2
 
 #### Colaboradores
+* Maíra Oliveira
+* Matheus Teixeira
+* Renata Kim
+* Salomao Kim
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/sekimzero/Aula16-WPF)
 
 #### Descrição/Observação (Opcional)
 
